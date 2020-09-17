@@ -1,2 +1,12 @@
+.idea/
+example_scripts/
+venv/
 *.mp4
+*.webm
+*.pyc
+*.pk
+*.log
+Pip*
+env/
+my_env/
 videos/
